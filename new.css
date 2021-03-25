@@ -1,0 +1,66 @@
+
+body 
+{
+	width: 750px;
+	margin: 0 auto;
+	font-family:tahoma;
+}
+
+table 
+{
+	border-collapse: collapse;
+	border: 2px solid black;
+	margin: 25px;
+}
+
+thead 
+{
+	background-color: yellow;
+}
+
+th, td 
+{
+	border: 1px solid black;
+	padding: .2em 1em .2em .5em;
+	text-align: left;
+	vertical-align: middle;
+}
+.title_qua{
+	margin-top: 1%;
+	padding: 2% 0 2% 5%;
+	border: 2px;
+	border-style: solid;
+}
+
+.title{
+	text-align: center;
+}
+
+
+.right
+{
+	text-align: right;
+}
+
+
+tbody tr:last-child
+{
+	font-weight: bolder;
+}
+
+tbody tr:nth-child(even) td 
+{
+	background-color: yellow;
+}
+
+
+.top{
+	font-weight: bold;
+	vertical-align: top;
+}
+
+
+tbody tr .top:first-child{
+	background-color: white;
+}
+
