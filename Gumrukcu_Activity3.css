@@ -1,0 +1,78 @@
+/*
+Lab 3 CSS styles
+CSS styles for Ultimate frisbee page
+*/
+
+body {
+  color: #F8DD86;
+  font: 12pt "Tahoma", "Arial", sans-serif;
+  
+ 
+  background-image: url("kahve.jpg") ;
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+  background-size: cover;
+  opacity: 2;
+  
+
+  
+}
+
+#wrapper{
+
+}
+
+#header {
+
+}
+
+#news {
+
+}
+
+
+#main {
+
+}
+
+
+
+
+
+img{
+border: 3px solid black;
+}
+
+
+footer {
+  font-size: 10pt;
+  font-style: italic;
+  position: absolute;
+  right: 20px;
+}
+
+h2,h1{
+color: yellow;
+}
+tbody tr:nth-child(even) td 
+{
+	background-color: #EE8319;
+}
+li{
+	border: 1px solid white;
+	padding: .2em 1em .2em .2em;
+	text-align: left;
+	vertical-align: super;
+	  width: 250px;
+  
+	
+}
+
+th, td 
+{
+	
+	border: 2px solid white;
+	padding: .2em 1em .2em .5em;
+	text-align: left;
+	vertical-align: middle;
+}
