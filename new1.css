@@ -1,0 +1,92 @@
+
+advertisement,logo,title,header,image,content,main,head{
+	display:block;
+}
+
+
+
+.advertisement
+{
+	width:100px;
+	height:150px; 
+	border-color:black;
+	border-width:2px; 
+	background-color:gray; 
+	color:white;
+	
+	
+	position: absolute;
+
+      left: 10px;
+      top: 40px;
+	
+	
+}
+
+.title{
+	
+	width:330px;
+	height:170px;		
+	float:left;
+		
+	
+	
+}
+.logo{
+	
+	float:left;
+	width:320px;
+	
+	
+	
+}
+
+.header{
+	padding-left:15%;
+	padding-right:15%;
+	
+}
+.image{
+	clear:both;
+		width:250px;
+		height:187px;
+	   
+	   margin:5px;
+	padding:5px;
+        
+float:left;
+
+
+}
+
+.content{
+	clear:both;
+	padding-left:15%;
+	padding-right:15%;
+	
+		
+}
+
+
+.main{
+	
+	
+	font-size:16pt;
+	clear:right;
+	
+	
+}
+
+
+
+
+
+.head{
+	padding-left:15%;
+	padding-right:15%;
+	text-align:center;
+	
+	font-weight:bold;
+	
+	margin-bottom:50px;
+}
