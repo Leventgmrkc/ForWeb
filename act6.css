@@ -1,0 +1,12 @@
+.container{
+    width: 65%;
+    margin: 5% auto;
+	margin-left: 35%;
+}
+.container .sol{
+    width: 5%;
+}
+
+.convert{
+    margin-left: 25%;
+}
