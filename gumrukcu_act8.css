@@ -1,0 +1,27 @@
+.container{
+    width: 70%;
+    height: 500px;
+    margin: 0 auto;
+    background-color: #999999;
+	border-radius: 20px;
+}
+button{
+    width: 100px;
+    height:45px;
+    background-color: #60bfff;
+    color: white;
+    border-radius: 15px;
+    border: solid 3px #60bfff;
+    font-size: 20px;
+}
+#score{
+    width:70%;
+    margin: 10px auto;
+    font-size: 26px;
+}
+
+#level{
+    width:70%;
+    margin: 10px auto;
+    font-size: 26px;
+}
