@@ -19,6 +19,13 @@
 	
 	
 }
+
+.likee{
+	width:40px;
+	
+	
+}
+
 .clear{
 	clear:both;
 }
@@ -130,13 +137,6 @@ p{
 margin-top:5%;	
 margin-bottom:5%;
 }
-.sayfa
-{
-		margin-top:5%;
-	color:blue;
-	font-weight:bolder;
-	text-align:center;
-}
 
 .resim_cerceve{
 	
@@ -165,10 +165,54 @@ tr{
 
 ul { list-style-type:none; 
 }
- a {
+a {
 	 color:white;
      text-decoration: none;
     }
+	
+	
+.sayfa
+{	width:400px;
+	height:100px;	
+	margin-top:5%;
+	margin-left:40%;
+	color:black;
+	font-weight:bolder;
+	text-align:center;
+}
+#naturell li{
+	/*      display:none;       */
+}
+
+.sira1{
+	float:left;
+}
+.sira2{
+	float:left;
+}
+.sira3{
+	float:left;
+}
+.sira4{
+	float:left;
+}
+.sira5{
+	float:left;
+}
+.sira6{
+	float:left;
+}
+.sira7{
+	float:left;
+}
+.sira8{
+	float:left;
+}
+
+
+
+	
+	
 
 .sag_baslik{
 	

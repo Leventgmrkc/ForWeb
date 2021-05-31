@@ -54,13 +54,13 @@ tbody tr:nth-child(even) td
 }
 
 
-.top{
+.up{
 	font-weight: bold;
 	vertical-align: top;
 }
 
 
-tbody tr .top:first-child{
+tbody tr .up:first-child{
 	background-color: white;
 }
 
