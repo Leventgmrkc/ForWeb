@@ -9,6 +9,6 @@ $(document).ready(function() {
 			  speed: 3000,
 			  pager: true,
 			  pagerType: 'short',
-			  pagerSelector : '#pager',
+			  pagerSelector : '#pager'
 			});
     	});
