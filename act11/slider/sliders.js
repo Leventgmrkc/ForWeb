@@ -10,6 +10,6 @@ $(document).ready(function() {
 			  pager: true,
 			  pagerType: 'short',
 			  pagerSelector : '#pager',
-			  moveslides:1
+			  moveSlides:1
 			});
     	});
