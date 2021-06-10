@@ -1,15 +1,13 @@
 
-{[
+[
 	{
-		
 		"title": "About FindPhoto",		
 		"text": "We buy and sell images. We buy 50,000 images and we sell 35,000 images every day.
 				</br>
 				Sourced from photographers and from you. 
 				</br>
 				We pay our photographers a higher percentage of the sale than other componies and it’s easy to get your images online."		
-	}
-	
+	},
 	{
 		
 		"title": "Sell to FindPhoto",		
@@ -24,8 +22,7 @@
 					Our ‘100% students’ project supports photography students while they study. 
 					</br>
 					We give students 100% of the money they make from the sale of their images on FindPhoto."		
-	}
-	
+	},
 	{
 		
 		"title": "FindPhoto Mission",		
@@ -41,4 +38,4 @@
 					</br>
 					Everyone should be heard. All we need is for you to tell their story."		
 	}
-]}
+]
